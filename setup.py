@@ -8,7 +8,7 @@ def _get_requires_from_file(filename):
 
 setup(
     name="PyTaskManager",
-    version="1.0.1",
+    version="1.0.2",
     license="MIT",
     author="Akagawa Daisuke",
     url="http://github.com/Akasan/PyTaskManager",
